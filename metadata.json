@@ -1,0 +1,11 @@
+{
+  "name": "MAYURI AI – Smart Personal Voice Assistant",
+  "description": "Advanced Gemini-powered Hindi, English & Hinglish AI voice companion with Android mobile device controls, phone calling, social media assistant, and code studio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
